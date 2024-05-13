@@ -1,4 +1,4 @@
 const adder = require("./");
-const res = adder(0.2, '0.1');
+const res = adder(2, 3);
 
 console.log(res);

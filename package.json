@@ -1,6 +1,6 @@
 {
   "name": "basic-adder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Exposes sum function",
   "main": "index.js",
   "scripts": {
